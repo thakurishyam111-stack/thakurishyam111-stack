@@ -3,8 +3,7 @@
 
 
 🎓 BCA Student | 💻 MERN Stack Learner  
-🌱 Currently learning React & Backend  
-🇳🇵 From Nepal
+🌱 Currently learning React & Backend node.js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
