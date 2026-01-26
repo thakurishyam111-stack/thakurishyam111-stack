@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shyam thakuri</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
-- 🌱 I’m currently learning **MERN stack**
 
-- 📫 How to reach me **thakurishyam111@gmail.com**
+🎓 BCA Student | 💻 MERN Stack Learner  
+🌱 Currently learning React & Backend  
+🇳🇵 From Nepal
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
