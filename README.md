@@ -25,11 +25,11 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
 </a>
 
-<a href="https://linkedin.com/" target="blank">
+<a href="https://shyam-thakuri/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="mailto:yourgmail@gmail.com">
+<a href="mailto:thakurishyam111@gmail.com">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
 </a>
 </p>
