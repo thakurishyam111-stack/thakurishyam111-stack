@@ -5,10 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=thakurishyam111-stack&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 ### 🧑‍💻 About Me
