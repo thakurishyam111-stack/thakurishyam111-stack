@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyam Thakuri</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Nepal 🇳🇵</h3>
+![](https://komarev.com/ghpvc/?username=thakurishyam111-stack&color=blueviolet&style=for-the-badge)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=thakurishyam111-stack&label=Profile%20views&color=0e75b6&style=flat" />
