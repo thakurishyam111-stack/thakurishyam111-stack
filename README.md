@@ -1,106 +1,175 @@
 <h1 align="center">Hi 👋, I'm Shyam Thakuri</h1>
-<h3 align="center">A Passionate MERN Stack Developer from Nepal 🇳🇵</h3>
+
+<h3 align="center">BCA Student | MERN Stack Developer | Web Development Enthusiast 🇳🇵</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=thakurishyam111-stack&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
-</p>
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
----
-
-### 🧑‍💻 About Me
-
-🎓 **BCA Student (IT)**  
-💻 **Full Stack Developer (MERN Stack)**  
-🌱 Currently learning **Next.js & Backend Development**  
-🚀 Interested in **Web Development, Open Source & Software Engineering**
-
-- 🔭 I’m currently working on **React & Next.js Projects**
-- 🌱 Learning **MongoDB, Express.js, Node.js**
-- 💬 Ask me about **C, Java, Python, JavaScript, PHP**
-- ⚡ Fun fact: *I love building real world projects*
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/thakurishyam111-stack">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40"/>
-</a>
-
-<a href="mailto:yourgmail@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40"/>
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=thakurishyam111-stack&label=Profile%20Views&color=555555&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-# 🛠 Languages and Tools
+## 👨‍💻 About Me
+
+🎓 BCA Student from Nepal
+💻 Learning and building with the **MERN Stack**
+🌱 Currently improving my skills in **JavaScript, React, Next.js and Backend Development**
+🔐 Interested in **Web Security and Cybersecurity**
+🚀 Interested in building practical and real-world applications
+
+* 🔭 Currently working on **React, Next.js and Full Stack Projects**
+* 🌱 Learning **Node.js, Express.js, MongoDB and REST APIs**
+* 🗄️ Practicing **MySQL and Database Management**
+* 🛠️ Using **Git and GitHub** for version control
+* 💡 I enjoy learning by building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+### Frontend
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+### Backend & Database
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🌍 **Tourism Management System**  
-A full-stack tourism management web application built with **React.js, Node.js, Express.js, and MongoDB**.
+### ☕ Deurali Cafe — Full Stack Web Application
 
-Features:
-- Tourist destination listing  
-- Online booking system  
-- Admin dashboard  
-- User authentication  
+A modern cafe website/application built while learning and practicing full-stack development.
 
-🌾 **Kkhetibari.com** – Agriculture platform for Nepal (React Project)
+**Focus:**
 
-🏨 **Hotel Management System** – C Programming Project
+* Responsive user interface
+* Menu and product management
+* Order and billing functionality
+* API integration
+* Next.js development
+* Real-world project structure
 
-📚 **Student Management System** – Java + MySQL
-
----
-
-### 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurishyam111-stack&show_icons=true&locale=en&layout=compact"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakurishyam111-stack&show_icons=true&locale=en"/>
-</p>
+**Tech:** Next.js, React, JavaScript, Node.js, Express.js, MongoDB
 
 ---
 
-### 🔥 GitHub Streak
+### 🌍 Tourism Management System
+
+A full-stack tourism management application designed to manage tourist destinations and bookings.
+
+**Features:**
+
+* Tourist destination listing
+* User authentication
+* Online booking
+* Admin dashboard
+* Database integration
+
+**Tech:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+### 🌾 Kkhetibari.com
+
+An agriculture-focused web application for Nepal.
+
+**Tech:** React.js
+
+---
+
+### 📚 Student Management System
+
+A database-based student management project created while learning Java and MySQL.
+
+**Tech:** Java, MySQL
+
+---
+
+## 🔐 Currently Learning
+
+```text
+JavaScript
+   ↓
+React / Next.js
+   ↓
+Node.js / Express.js
+   ↓
+MongoDB / MySQL
+   ↓
+REST APIs
+   ↓
+Git & GitHub
+   ↓
+Networking & Linux
+   ↓
+Web Security
+```
+
+---
+
+## 🎯 Current Goals
+
+* Build production-ready full-stack applications
+* Improve JavaScript and React/Next.js skills
+* Strengthen backend and database knowledge
+* Learn networking and Linux fundamentals
+* Explore web security and cybersecurity
+* Prepare for a junior/internship-level developer role
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/thakurishyam111-stack">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurishyam111-stack&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thakurishyam111-stack&show_icons=true&hide_border=true&title_color=333333&text_color=555555&icon_color=555555" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurishyam111-stack&layout=compact&hide_border=true&title_color=333333&text_color=555555" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake Animation
-
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+  <i>Learning, building, and improving every day.</i>
 </p>
